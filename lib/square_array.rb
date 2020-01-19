@@ -1,4 +1,4 @@
-require byebug
+require 'byebug'
 def square_array(array)
   byebug
   # array = numbers
