@@ -1,5 +1,5 @@
 def square_array(array)
-  binding.pry
+  byebug
   # array = numbers
   # counter = 0
   # square_array1 = []
